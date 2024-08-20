@@ -1,0 +1,24 @@
+{
+  "name": "universal-code-themes",
+  "displayName": "Universal code Themes",
+  "description": "Theme for Visual Studio Code",
+  "version": "0.0.3",
+  "icon": "Assets/Logo.png",
+  "keywords": ["theme"],
+  "publisher": "Girafae",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Universal-Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Universal-Code-color-theme.json"
+      }
+    ]
+  }
+}
