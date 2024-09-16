@@ -1,3 +1,8 @@
+# AVISO
+
+## PROJETO DESCONTINUADO
+
+
 # Tema GRKaty para Visual Studio Code
 
 ## Introdução
