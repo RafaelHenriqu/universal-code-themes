@@ -3,7 +3,6 @@
 ## PROJETO DESCONTINUADO
 **Mas não se preocupem, o projeto foi passado para outra equipe administrar. O nome do projeto continuará sendo o mesmo e o projeto será transferido no npm para os novos donos.**
 
-
 # Tema Universal Code para Visual Studio Code
 
 Bem-vindo ao repositório do **Universal Code Theme** para o Visual Studio Code! Este tema foi desenvolvido exclusivamente como um complemento para a biblioteca [Universal-code](https://github.com/RafaelHenriqu/Universal-Code), proporcionando uma experiência de codificação mais agradável e produtiva.
@@ -17,11 +16,11 @@ Bem-vindo ao repositório do **Universal Code Theme** para o Visual Studio Code!
 
 ## Descrição
 
-O **Universal Code Theme** foi criado para oferecer um ambiente visual coerente e confortável para desenvolvedores que utilizam a biblioteca Universal-code. ele visa melhorar a legibilidade. Importante destacar que este tema é apenas um complemento e não é essencial para o uso da biblioteca; foi desenvolvido pela simples razão de adicionar um toque visual ao ambiente de programação.
+O **Universal Code Theme** foi criado para oferecer um ambiente visual coerente e confortável para desenvolvedores que utilizam a biblioteca Universal-code. Ele visa melhorar a legibilidade. Importante destacar que este tema é apenas um complemento e não é essencial para o uso da biblioteca; foi desenvolvido pela simples razão de adicionar um toque visual ao ambiente de programação.
 
 ## Recursos
 
-- Cores adaptadas para um melhor contraste e legibilidade
+- Cores adaptadas para um melhor contraste e legibilidade.
 
 ## Instalação
 
@@ -41,3 +40,9 @@ Para instalar o **Universal Code Theme** no Visual Studio Code, siga os passos a
 4. Pronto! Agora você pode aproveitar sua nova estética de desenvolvimento.
 
 Agradecemos por utilizar o **Universal Code Theme**! Esperamos que ele melhore ainda mais sua experiência de desenvolvimento com a biblioteca Universal-code.
+
+---
+
+Observação: Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato com os novos administradores do projeto!
+
+Por GRKaty
