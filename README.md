@@ -1,3 +1,9 @@
+# AVISO
+
+## PROJETO DESCONTINUADO
+**Mas não se preocupem, o projeto foi passado para outra equipe administrar. O nome do projeto continuará sendo o mesmo e o projeto será transferido no npm para os novos donos.**
+
+
 # Tema Universal Code para Visual Studio Code
 
 Bem-vindo ao repositório do **Universal Code Theme** para o Visual Studio Code! Este tema foi desenvolvido exclusivamente como um complemento para a biblioteca [Universal-code](https://github.com/RafaelHenriqu/Universal-Code), proporcionando uma experiência de codificação mais agradável e produtiva.
